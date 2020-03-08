@@ -81,7 +81,7 @@ body {
 #section-2 {
     margin-top: -60px;
     padding: 40px 20px;
-    background-image: linear-gradient(to right bottom, rgba(40, 166, 197, 0.8), rgba(18, 54, 71, 0.8)), url(../img/nat-4.jpg);
+    background-image: linear-gradient(to right bottom, rgba(40, 166, 197, 0.99), rgba(18, 54, 71, 0.9)), url(images/cleaning-bg.jpg);
     background-size: cover;
     transform: skewY(-7deg);
 }
