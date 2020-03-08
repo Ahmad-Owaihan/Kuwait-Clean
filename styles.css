@@ -86,7 +86,6 @@ body {
     transform: skewY(-7deg);
 }
 
-
 #section-2 > * {
     transform: skewY(7deg); }
 
@@ -155,4 +154,29 @@ body {
 
 .img-kwt {
     height: 100px;
+}
+
+.starting-img {
+    height: 45vh;
+}
+
+@media only screen and (min-width: 600px) {
+    .starting-img {
+        height: 75vh;
+    }
+    #section-one {
+        padding-bottom: 150px;
+    }
+  }
+
+@media only screen and (min-width: 800px) {
+    .starting-img {
+        height: 85vh;
+    }
+    #section-one {
+        padding-bottom: 19  0px;
+    }
+    #section-2 {
+        margin-top: -90px;
+    }
 }
