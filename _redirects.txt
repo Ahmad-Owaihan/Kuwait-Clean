@@ -1,3 +1,3 @@
 # Redirects from what the browser requests to what we serve
 
-/https://clean-kuwait.com/index.html   /https:/clean-kuwait.com
+/clean-kuwait.com/index.html   /clean-kuwait.com
