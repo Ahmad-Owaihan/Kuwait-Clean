@@ -43,7 +43,7 @@ body {
 #section-one {
     padding: 40px 20px;
     min-height: 25vh;
-    background-image: linear-gradient(to right bottom, rgba(190, 255, 179, 0.92), rgba(255, 255, 255, 0.8)), url(images/cleaning-bg.jpg);
+    background-image: linear-gradient(to right bottom, rgba(190, 255, 179, 0.92), rgba(255, 255, 255, 0.8)), url(images/cleaning-bg.jpg), title("cleaning tools background");
     background-size: cover;
     background-position: top;
     position: relative;
@@ -81,7 +81,7 @@ body {
 #section-2 {
     margin-top: -60px;
     padding: 40px 20px;
-    background-image: linear-gradient(to right bottom, rgba(40, 166, 197, 0.99), rgba(18, 54, 71, 0.9)), url(images/cleaning-bg.jpg);
+    background-image: linear-gradient(to right bottom, rgba(40, 166, 197, 0.99), rgba(18, 54, 71, 0.9)), url(images/cleaning-bg.jpg) title("cleaning tools background");
     background-size: cover;
     transform: skewY(-7deg);
 }
@@ -150,7 +150,7 @@ body {
     min-height:50vh;
     padding: 40px 20px;
     text-align: center;
-    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.85)), url(images/map.png);
+    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.85)), url(images/map.png), title("map");
     background-size: contain;
 }
 
